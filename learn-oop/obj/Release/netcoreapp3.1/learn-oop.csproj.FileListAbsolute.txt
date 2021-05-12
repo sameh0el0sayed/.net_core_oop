@@ -1,0 +1,11 @@
+/Users/SamehElSayed/Projects/learn-oop/learn-oop/bin/Release/netcoreapp3.1/learn-oop.deps.json
+/Users/SamehElSayed/Projects/learn-oop/learn-oop/bin/Release/netcoreapp3.1/learn-oop.runtimeconfig.json
+/Users/SamehElSayed/Projects/learn-oop/learn-oop/bin/Release/netcoreapp3.1/learn-oop.runtimeconfig.dev.json
+/Users/SamehElSayed/Projects/learn-oop/learn-oop/bin/Release/netcoreapp3.1/learn-oop.dll
+/Users/SamehElSayed/Projects/learn-oop/learn-oop/bin/Release/netcoreapp3.1/learn-oop.pdb
+/Users/SamehElSayed/Projects/learn-oop/learn-oop/obj/Release/netcoreapp3.1/learn-oop.AssemblyInfoInputs.cache
+/Users/SamehElSayed/Projects/learn-oop/learn-oop/obj/Release/netcoreapp3.1/learn-oop.AssemblyInfo.cs
+/Users/SamehElSayed/Projects/learn-oop/learn-oop/obj/Release/netcoreapp3.1/learn-oop.csproj.CoreCompileInputs.cache
+/Users/SamehElSayed/Projects/learn-oop/learn-oop/obj/Release/netcoreapp3.1/learn-oop.dll
+/Users/SamehElSayed/Projects/learn-oop/learn-oop/obj/Release/netcoreapp3.1/learn-oop.pdb
+/Users/SamehElSayed/Projects/learn-oop/learn-oop/obj/Release/netcoreapp3.1/learn-oop.genruntimeconfig.cache
